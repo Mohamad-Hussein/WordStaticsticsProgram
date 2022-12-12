@@ -7,12 +7,14 @@ This program allows you to access retrievable information about any land on eart
 ## How to use
 
 * Create a virtual environment
+* * To do that type in cmd: py -m venv venv
+* * Run activate.bat file, command: venv\Scripts\activate.bat
 * Download packages numpy and matplotlib
-*   To do that write on your cmd terminal: pip install numpy , after that write pip install matplotlib.
+* * To do that write on your cmd terminal: pip install numpy , after that write pip install matplotlib.
 * Run the program
 * Enter country/region/subregion
 * Select chosen retrievable information
 
 ## Background
 
-Bernard Aire and Mohamad Hussein complete this final project in our first year of university in the ENDG 233 course.
+Bernard Aire and Mohamad Hussein completed this final project in our first year of university in the ENDG 233 course.
